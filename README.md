@@ -1,9 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19907
-Fork on GitHub5997
 <h1 align="center">Hi 👋, I'm Jepriana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jepriana&label=Profile%20views&color=0e75b6&style=flat" alt="jepriana" /> </p>
 
