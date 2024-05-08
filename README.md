@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jepriana</h1>
 
 <h3 align="center">A passionate Software Engineer from Bali, Indonesia</h3>
-<h1></h1>
+
+## 
 
 - 🔭 I’m currently working on [PerahuApp](https://play.google.com/store/apps/details?id=com.perahuapp.mobile)
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **jepriana.dev@gmail.com**
 
-<h1></h1>
+## 
 
 <h3 align="center">My Stats</h3>
 <div align="center">
@@ -21,7 +22,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jepriana&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<h1></h1>
+## 
 
 <h3 align="center">My Tech Stacks</h3>
 <div align="center">
@@ -74,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
 </div>
 
-<h1></h1>
+## 
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
@@ -85,12 +86,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
-## 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jepriana&label=Profile%20views&color=0e75b6&style=flat" alt="jepriana" /> </p>
-
-<h1></h1>
-
-<img src="https://raw.githubusercontent.com/jepriana/jepriana/output/snake.svg" alt="Snake animation" />
-
-<h1></h1>
