@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jepriana</h1>
 
 <h3 align="center">A passionate Software Engineer from Bali, Indonesia</h3>
+<h1></h1>
 
 - 🔭 I’m currently working on [PerahuApp](https://play.google.com/store/apps/details?id=com.perahuapp.mobile)
 
@@ -10,17 +11,19 @@
 
 - 📫 How to reach me **jepriana.dev@gmail.com**
 
-<h3 align="center">My Stats</h3>
+###
 
+<h3 align="center">My Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jepriana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jepriana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jepriana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jepriana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jepriana&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<h3 align="center">My Tech Stacks</h3>
+<h1></h1>
 
+<h3 align="center">My Tech Stacks</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -71,8 +74,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
 </div>
 
-<h3 align="center">Connect with me</h3>
+<h1></h1>
 
+<h3 align="center">Connect with me</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
@@ -81,10 +85,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
+<h1></h1>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jepriana&label=Profile%20views&color=0e75b6&style=flat" alt="jepriana" /> </p>
 
-###
+<h1></h1>
 
 <img src="https://raw.githubusercontent.com/jepriana/jepriana/output/snake.svg" alt="Snake animation" />
 
-###
+<h1></h1>
