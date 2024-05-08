@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jepriana.dev@gmail.com**
 
-###
+<h1></h1>
 
 <h3 align="center">My Stats</h3>
 <div align="center">
@@ -85,7 +85,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
-<h1></h1>
+## 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jepriana&label=Profile%20views&color=0e75b6&style=flat" alt="jepriana" /> </p>
 
