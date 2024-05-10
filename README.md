@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jepriana</h1>
 
 <h3 align="center">A passionate Software Engineer from Bali, Indonesia</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jepriana&label=Profile%20views&color=0e75b6&style=flat" alt="jepriana" /> </p>
 
 ## 
 
@@ -86,4 +87,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jepriana&label=Profile%20views&color=0e75b6&style=flat" alt="jepriana" /> </p>
